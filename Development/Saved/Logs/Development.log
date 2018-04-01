@@ -347,3 +347,286 @@ LogInit: Object subsystem initialized
 [2018.04.01-13.04.17:806][  1]LogAssetRegistry: Asset discovery search completed in 15.1707 seconds
 [2018.04.01-13.04.17:807][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2018.04.01-13.04.17:807][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000085 seconds (updated 0 objects)
+[2018.04.01-13.08.16:697][435]SourceControl: Source control is disabled
+[2018.04.01-13.09.26:596][530]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.01-13.09.37:879][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.01-13.09.37:934][530]LogSavePackage: Save=33.30ms
+[2018.04.01-13.09.37:934][530]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/World9AF96D044D88A2E0B62C5EB7B99DCD98.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World.umap'
+[2018.04.01-13.09.37:939][530]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World.umap
+[2018.04.01-13.09.37:960][530]LogFileHelpers: Saving map 'World' took 0.144
+[2018.04.01-13.09.37:973][531]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.01-13.16.39:544][274]LogLinker: Warning: Can't find file '/Game/meshes/lambert1_001'
+[2018.04.01-13.16.39:544][274]LogLinker: Warning: Can't find file for asset '/Game/meshes/lambert1_001' while loading ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/FirstPersonBP/Blueprints/meshes/arm1.uasset.
+[2018.04.01-13.16.39:544][274]LoadErrors: Error: /Game/FirstPersonBP/Blueprints/meshes/arm1 : Can't find file for asset. /Game/meshes/lambert1_001
+[2018.04.01-13.16.39:544][274]LogLinker: Warning: Can't find file '/Game/meshes/lambert1_001'
+[2018.04.01-13.16.39:544][274]LogLinker: Warning: Can't find file for asset '/Game/meshes/lambert1_001' while loading ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/FirstPersonBP/Blueprints/meshes/arm1.uasset.
+[2018.04.01-13.16.39:546][274]LogLinker: Warning: Can't find file '/Game/meshes/lambert1_002'
+[2018.04.01-13.16.39:546][274]LogLinker: Warning: Can't find file for asset '/Game/meshes/lambert1_002' while loading ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/FirstPersonBP/Blueprints/meshes/arm2.uasset.
+[2018.04.01-13.16.39:546][274]LoadErrors: Error: /Game/FirstPersonBP/Blueprints/meshes/arm2 : Can't find file for asset. /Game/meshes/lambert1_002
+[2018.04.01-13.16.39:546][274]LogLinker: Warning: Can't find file '/Game/meshes/lambert1_002'
+[2018.04.01-13.16.39:546][274]LogLinker: Warning: Can't find file for asset '/Game/meshes/lambert1_002' while loading ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/FirstPersonBP/Blueprints/meshes/arm2.uasset.
+[2018.04.01-13.16.39:548][274]LogLinker: Warning: Can't find file '/Game/meshes/lambert1'
+[2018.04.01-13.16.39:548][274]LogLinker: Warning: Can't find file for asset '/Game/meshes/lambert1' while loading ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/FirstPersonBP/Blueprints/meshes/base.uasset.
+[2018.04.01-13.16.39:548][274]LoadErrors: Error: /Game/FirstPersonBP/Blueprints/meshes/base : Can't find file for asset. /Game/meshes/lambert1
+[2018.04.01-13.16.39:548][274]LogLinker: Warning: Can't find file '/Game/meshes/lambert1'
+[2018.04.01-13.16.39:548][274]LogLinker: Warning: Can't find file for asset '/Game/meshes/lambert1' while loading ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/FirstPersonBP/Blueprints/meshes/base.uasset.
+[2018.04.01-13.16.39:550][274]LogLinker: Warning: Can't find file '/Game/meshes/lambert1_003'
+[2018.04.01-13.16.39:550][274]LogLinker: Warning: Can't find file for asset '/Game/meshes/lambert1_003' while loading ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/FirstPersonBP/Blueprints/meshes/hand.uasset.
+[2018.04.01-13.16.39:550][274]LoadErrors: Error: /Game/FirstPersonBP/Blueprints/meshes/hand : Can't find file for asset. /Game/meshes/lambert1_003
+[2018.04.01-13.16.39:550][274]LogLinker: Warning: Can't find file '/Game/meshes/lambert1_003'
+[2018.04.01-13.16.39:550][274]LogLinker: Warning: Can't find file for asset '/Game/meshes/lambert1_003' while loading ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/FirstPersonBP/Blueprints/meshes/hand.uasset.
+[2018.04.01-13.16.39:560][274]LogLinker: Warning: Can't find file '/Game/meshes/lambert1_002'
+[2018.04.01-13.16.39:560][274]LoadErrors: Failed to load /Game/meshes/lambert1_002.lambert1_002 Referenced by arm2
+[2018.04.01-13.16.39:560][274]LogLinker: Warning: Can't find file for asset '/Game/meshes/lambert1_002' while loading NULL.
+[2018.04.01-13.16.39:561][274]LogLinker: Warning: Can't find file '/Game/meshes/lambert1_002'
+[2018.04.01-13.16.39:561][274]LogLinker: Warning: Can't find file for asset '/Game/meshes/lambert1_002' while loading NULL.
+[2018.04.01-13.16.39:561][274]LogLinker: Warning: Can't find file '/Game/meshes/lambert1_001'
+[2018.04.01-13.16.39:561][274]LoadErrors: Failed to load /Game/meshes/lambert1_001.lambert1_001 Referenced by arm1
+[2018.04.01-13.16.39:561][274]LogLinker: Warning: Can't find file for asset '/Game/meshes/lambert1_001' while loading NULL.
+[2018.04.01-13.16.39:562][274]LogLinker: Warning: Can't find file '/Game/meshes/lambert1_001'
+[2018.04.01-13.16.39:562][274]LogLinker: Warning: Can't find file for asset '/Game/meshes/lambert1_001' while loading NULL.
+[2018.04.01-13.16.39:562][274]LogLinker: Warning: Can't find file '/Game/meshes/lambert1_003'
+[2018.04.01-13.16.39:562][274]LoadErrors: Failed to load /Game/meshes/lambert1_003.lambert1_003 Referenced by hand
+[2018.04.01-13.16.39:562][274]LogLinker: Warning: Can't find file for asset '/Game/meshes/lambert1_003' while loading NULL.
+[2018.04.01-13.16.39:562][274]LogLinker: Warning: Can't find file '/Game/meshes/lambert1_003'
+[2018.04.01-13.16.39:563][274]LogLinker: Warning: Can't find file for asset '/Game/meshes/lambert1_003' while loading NULL.
+[2018.04.01-13.16.39:563][274]LogLinker: Warning: Can't find file '/Game/meshes/lambert1'
+[2018.04.01-13.16.39:563][274]LoadErrors: Failed to load /Game/meshes/lambert1.lambert1 Referenced by base
+[2018.04.01-13.16.39:563][274]LogLinker: Warning: Can't find file for asset '/Game/meshes/lambert1' while loading NULL.
+[2018.04.01-13.16.39:563][274]LogLinker: Warning: Can't find file '/Game/meshes/lambert1'
+[2018.04.01-13.16.39:563][274]LogLinker: Warning: Can't find file for asset '/Game/meshes/lambert1' while loading NULL.
+[2018.04.01-13.16.49:067][876]LogMetaData: Removing '/Game/Robot.Robot_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/Robot.PackageMetaData'
+[2018.04.01-13.16.49:067][876]LogMetaData: Removing '/Game/Robot.Robot:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPersonBP/Blueprints/Robot.PackageMetaData'
+[2018.04.01-13.16.49:067][876]LogMetaData: Removing '/Game/Robot.SKEL_Robot_C:SetBaseRotation' ref from Metadata '/Game/FirstPersonBP/Blueprints/Robot.PackageMetaData'
+[2018.04.01-13.16.49:067][876]LogMetaData: Removing '/Game/Robot.SKEL_Robot_C:SetArm1Rotation' ref from Metadata '/Game/FirstPersonBP/Blueprints/Robot.PackageMetaData'
+[2018.04.01-13.16.49:067][876]LogMetaData: Removing '/Game/Robot.SKEL_Robot_C:SetArm2Rotation' ref from Metadata '/Game/FirstPersonBP/Blueprints/Robot.PackageMetaData'
+[2018.04.01-13.16.49:067][876]LogMetaData: Removing '/Game/Robot.SKEL_Robot_C:DefaultSceneRoot' ref from Metadata '/Game/FirstPersonBP/Blueprints/Robot.PackageMetaData'
+[2018.04.01-13.16.49:067][876]LogMetaData: Removing '/Game/Robot.SKEL_Robot_C:base' ref from Metadata '/Game/FirstPersonBP/Blueprints/Robot.PackageMetaData'
+[2018.04.01-13.16.49:067][876]LogMetaData: Removing '/Game/Robot.SKEL_Robot_C:base_to_arm1' ref from Metadata '/Game/FirstPersonBP/Blueprints/Robot.PackageMetaData'
+[2018.04.01-13.16.49:067][876]LogMetaData: Removing '/Game/Robot.SKEL_Robot_C:arm1' ref from Metadata '/Game/FirstPersonBP/Blueprints/Robot.PackageMetaData'
+[2018.04.01-13.16.49:067][876]LogMetaData: Removing '/Game/Robot.SKEL_Robot_C:arm1_to_arm2' ref from Metadata '/Game/FirstPersonBP/Blueprints/Robot.PackageMetaData'
+[2018.04.01-13.16.49:067][876]LogMetaData: Removing '/Game/Robot.SKEL_Robot_C:arm2' ref from Metadata '/Game/FirstPersonBP/Blueprints/Robot.PackageMetaData'
+[2018.04.01-13.16.49:067][876]LogMetaData: Removing '/Game/Robot.SKEL_Robot_C:arm2_to_hand' ref from Metadata '/Game/FirstPersonBP/Blueprints/Robot.PackageMetaData'
+[2018.04.01-13.16.49:067][876]LogMetaData: Removing '/Game/Robot.SKEL_Robot_C:hand' ref from Metadata '/Game/FirstPersonBP/Blueprints/Robot.PackageMetaData'
+[2018.04.01-13.16.49:067][876]LogMetaData: Removing '/Game/Robot.SKEL_Robot_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/Robot.PackageMetaData'
+[2018.04.01-13.16.49:068][876]LogMetaData: Removing '/Game/Robot.SKEL_Robot_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/Robot.PackageMetaData'
+[2018.04.01-13.16.49:068][876]LogMetaData: Removing '/Game/Robot.Robot_C:DefaultSceneRoot' ref from Metadata '/Game/FirstPersonBP/Blueprints/Robot.PackageMetaData'
+[2018.04.01-13.16.49:068][876]LogMetaData: Removing '/Game/Robot.Robot_C:base' ref from Metadata '/Game/FirstPersonBP/Blueprints/Robot.PackageMetaData'
+[2018.04.01-13.16.49:068][876]LogMetaData: Removing '/Game/Robot.Robot_C:base_to_arm1' ref from Metadata '/Game/FirstPersonBP/Blueprints/Robot.PackageMetaData'
+[2018.04.01-13.16.49:068][876]LogMetaData: Removing '/Game/Robot.Robot_C:arm1' ref from Metadata '/Game/FirstPersonBP/Blueprints/Robot.PackageMetaData'
+[2018.04.01-13.16.49:068][876]LogMetaData: Removing '/Game/Robot.Robot_C:arm1_to_arm2' ref from Metadata '/Game/FirstPersonBP/Blueprints/Robot.PackageMetaData'
+[2018.04.01-13.16.49:068][876]LogMetaData: Removing '/Game/Robot.Robot_C:arm2' ref from Metadata '/Game/FirstPersonBP/Blueprints/Robot.PackageMetaData'
+[2018.04.01-13.16.49:068][876]LogMetaData: Removing '/Game/Robot.Robot_C:arm2_to_hand' ref from Metadata '/Game/FirstPersonBP/Blueprints/Robot.PackageMetaData'
+[2018.04.01-13.16.49:068][876]LogMetaData: Removing '/Game/Robot.Robot_C:hand' ref from Metadata '/Game/FirstPersonBP/Blueprints/Robot.PackageMetaData'
+[2018.04.01-13.16.49:068][876]LogMetaData: Removing '/Game/Robot.Robot_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/Robot.PackageMetaData'
+[2018.04.01-13.16.49:068][876]LogMetaData: Removing '/Game/Robot.Robot_C:ExecuteUbergraph_Robot' ref from Metadata '/Game/FirstPersonBP/Blueprints/Robot.PackageMetaData'
+[2018.04.01-13.16.49:095][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot.uasset" SILENT=true
+[2018.04.01-13.16.49:135][876]LogSavePackage: Save=37.71ms
+[2018.04.01-13.16.49:135][876]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/RobotB09930474C52937FFCF46E97BA8AF0F8.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot.uasset'
+[2018.04.01-13.16.49:139][876]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot.uasset
+[2018.04.01-13.16.49:372][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/hand" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/meshes/hand.uasset" SILENT=true
+[2018.04.01-13.16.49:392][876]LogSavePackage: Save=17.82ms
+[2018.04.01-13.16.49:392][876]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/hand9248A5C1462E28D793740FB6CEA66E41.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/meshes/hand.uasset'
+[2018.04.01-13.16.49:395][876]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/meshes/hand.uasset
+[2018.04.01-13.16.49:408][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/base" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/meshes/base.uasset" SILENT=true
+[2018.04.01-13.16.49:426][876]LogSavePackage: Save=15.33ms
+[2018.04.01-13.16.49:426][876]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/base8A7867D24F587F59AC85398AC3FE2C5C.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/meshes/base.uasset'
+[2018.04.01-13.16.49:429][876]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/meshes/base.uasset
+[2018.04.01-13.16.49:442][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/arm2" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/meshes/arm2.uasset" SILENT=true
+[2018.04.01-13.16.49:460][876]LogSavePackage: Save=15.31ms
+[2018.04.01-13.16.49:460][876]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/arm2AE1DE8ED44AE016E8831DF9ED159BF86.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/meshes/arm2.uasset'
+[2018.04.01-13.16.49:463][876]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/meshes/arm2.uasset
+[2018.04.01-13.16.49:477][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/arm1" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/meshes/arm1.uasset" SILENT=true
+[2018.04.01-13.16.49:495][876]LogSavePackage: Save=15.88ms
+[2018.04.01-13.16.49:495][876]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/arm12F5687D0492E4DE03238CB8B71CEF1C5.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/meshes/arm1.uasset'
+[2018.04.01-13.16.49:499][876]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/meshes/arm1.uasset
+[2018.04.01-13.16.49:515][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/lambert1_003" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/meshes/lambert1_003.uasset" SILENT=true
+[2018.04.01-13.16.49:532][876]LogSavePackage: Save=14.44ms
+[2018.04.01-13.16.49:532][876]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/lambert1_003289A5F3B4D425588E2BDDBBC1282C629.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/meshes/lambert1_003.uasset'
+[2018.04.01-13.16.49:535][876]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/meshes/lambert1_003.uasset
+[2018.04.01-13.16.49:548][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/lambert1_002" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/meshes/lambert1_002.uasset" SILENT=true
+[2018.04.01-13.16.49:564][876]LogSavePackage: Save=14.34ms
+[2018.04.01-13.16.49:564][876]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/lambert1_0024DBDF6364B2903249CF524B5E25B0770.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/meshes/lambert1_002.uasset'
+[2018.04.01-13.16.49:568][876]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/meshes/lambert1_002.uasset
+[2018.04.01-13.16.49:580][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/lambert1_001" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/meshes/lambert1_001.uasset" SILENT=true
+[2018.04.01-13.16.49:597][876]LogSavePackage: Save=14.38ms
+[2018.04.01-13.16.49:597][876]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/lambert1_0013F3D5D0543E0F023D758639EACA5E4E0.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/meshes/lambert1_001.uasset'
+[2018.04.01-13.16.49:601][876]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/meshes/lambert1_001.uasset
+[2018.04.01-13.16.49:612][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/lambert1" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/meshes/lambert1.uasset" SILENT=true
+[2018.04.01-13.16.49:629][876]LogSavePackage: Save=14.62ms
+[2018.04.01-13.16.49:629][876]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/lambert123C426074780D639DE6544ABA0752D04.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/meshes/lambert1.uasset'
+[2018.04.01-13.16.49:634][876]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/meshes/lambert1.uasset
+[2018.04.01-13.17.16:409][878]LogMetaData: Removing '/Game/Robot_Model/Robot.Robot_C' ref from Metadata '/Game/Robot.PackageMetaData'
+[2018.04.01-13.17.16:409][878]LogMetaData: Removing '/Game/Robot_Model/Robot.Robot_C:UserConstructionScript' ref from Metadata '/Game/Robot.PackageMetaData'
+[2018.04.01-13.17.16:410][878]LogMetaData: Removing '/Game/Robot_Model/Robot.Robot_C:ExecuteUbergraph_Robot' ref from Metadata '/Game/Robot.PackageMetaData'
+[2018.04.01-13.17.16:410][878]LogMetaData: Removing '/Game/Robot_Model/Robot.Robot_C:hand' ref from Metadata '/Game/Robot.PackageMetaData'
+[2018.04.01-13.17.16:410][878]LogMetaData: Removing '/Game/Robot_Model/Robot.Robot_C:arm2_to_hand' ref from Metadata '/Game/Robot.PackageMetaData'
+[2018.04.01-13.17.16:410][878]LogMetaData: Removing '/Game/Robot_Model/Robot.Robot_C:arm2' ref from Metadata '/Game/Robot.PackageMetaData'
+[2018.04.01-13.17.16:410][878]LogMetaData: Removing '/Game/Robot_Model/Robot.Robot_C:arm1_to_arm2' ref from Metadata '/Game/Robot.PackageMetaData'
+[2018.04.01-13.17.16:410][878]LogMetaData: Removing '/Game/Robot_Model/Robot.Robot_C:arm1' ref from Metadata '/Game/Robot.PackageMetaData'
+[2018.04.01-13.17.16:410][878]LogMetaData: Removing '/Game/Robot_Model/Robot.Robot_C:base_to_arm1' ref from Metadata '/Game/Robot.PackageMetaData'
+[2018.04.01-13.17.16:410][878]LogMetaData: Removing '/Game/Robot_Model/Robot.Robot_C:base' ref from Metadata '/Game/Robot.PackageMetaData'
+[2018.04.01-13.17.16:410][878]LogMetaData: Removing '/Game/Robot_Model/Robot.Robot_C:DefaultSceneRoot' ref from Metadata '/Game/Robot.PackageMetaData'
+[2018.04.01-13.17.16:410][878]LogMetaData: Removing '/Game/Robot_Model/Robot.SKEL_Robot_C' ref from Metadata '/Game/Robot.PackageMetaData'
+[2018.04.01-13.17.16:410][878]LogMetaData: Removing '/Game/Robot_Model/Robot.SKEL_Robot_C:SetBaseRotation' ref from Metadata '/Game/Robot.PackageMetaData'
+[2018.04.01-13.17.16:410][878]LogMetaData: Removing '/Game/Robot_Model/Robot.SKEL_Robot_C:SetArm1Rotation' ref from Metadata '/Game/Robot.PackageMetaData'
+[2018.04.01-13.17.16:410][878]LogMetaData: Removing '/Game/Robot_Model/Robot.SKEL_Robot_C:SetArm2Rotation' ref from Metadata '/Game/Robot.PackageMetaData'
+[2018.04.01-13.17.16:410][878]LogMetaData: Removing '/Game/Robot_Model/Robot.SKEL_Robot_C:DefaultSceneRoot' ref from Metadata '/Game/Robot.PackageMetaData'
+[2018.04.01-13.17.16:410][878]LogMetaData: Removing '/Game/Robot_Model/Robot.SKEL_Robot_C:base' ref from Metadata '/Game/Robot.PackageMetaData'
+[2018.04.01-13.17.16:410][878]LogMetaData: Removing '/Game/Robot_Model/Robot.SKEL_Robot_C:base_to_arm1' ref from Metadata '/Game/Robot.PackageMetaData'
+[2018.04.01-13.17.16:410][878]LogMetaData: Removing '/Game/Robot_Model/Robot.SKEL_Robot_C:arm1' ref from Metadata '/Game/Robot.PackageMetaData'
+[2018.04.01-13.17.16:410][878]LogMetaData: Removing '/Game/Robot_Model/Robot.SKEL_Robot_C:arm1_to_arm2' ref from Metadata '/Game/Robot.PackageMetaData'
+[2018.04.01-13.17.16:410][878]LogMetaData: Removing '/Game/Robot_Model/Robot.SKEL_Robot_C:arm2' ref from Metadata '/Game/Robot.PackageMetaData'
+[2018.04.01-13.17.16:410][878]LogMetaData: Removing '/Game/Robot_Model/Robot.SKEL_Robot_C:arm2_to_hand' ref from Metadata '/Game/Robot.PackageMetaData'
+[2018.04.01-13.17.16:410][878]LogMetaData: Removing '/Game/Robot_Model/Robot.SKEL_Robot_C:hand' ref from Metadata '/Game/Robot.PackageMetaData'
+[2018.04.01-13.17.16:410][878]LogMetaData: Removing '/Game/Robot_Model/Robot.SKEL_Robot_C:UserConstructionScript' ref from Metadata '/Game/Robot.PackageMetaData'
+[2018.04.01-13.17.16:410][878]LogMetaData: Removing '/Game/Robot_Model/Robot.Robot:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Robot.PackageMetaData'
+[2018.04.01-13.17.16:437][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot_Model/Robot" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/Robot.uasset" SILENT=true
+[2018.04.01-13.17.16:476][878]LogSavePackage: Save=36.66ms
+[2018.04.01-13.17.16:476][878]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/RobotB8D16AA041E0338A2F39BCA3C8C5B8F0.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/Robot.uasset'
+[2018.04.01-13.17.16:480][878]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/Robot.uasset
+[2018.04.01-13.17.18:649][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot_Model/meshes/hand" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/hand.uasset" SILENT=true
+[2018.04.01-13.17.18:667][969]LogSavePackage: Save=16.06ms
+[2018.04.01-13.17.18:667][969]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/hand66063A1C4B41E523F44AF08B8AD1A404.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/hand.uasset'
+[2018.04.01-13.17.18:670][969]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/hand.uasset
+[2018.04.01-13.17.18:682][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot_Model/meshes/base" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/base.uasset" SILENT=true
+[2018.04.01-13.17.18:700][969]LogSavePackage: Save=15.91ms
+[2018.04.01-13.17.18:700][969]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/base8C98081A43EB0A59DC1A40899FA294C8.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/base.uasset'
+[2018.04.01-13.17.18:704][969]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/base.uasset
+[2018.04.01-13.17.18:715][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot_Model/meshes/arm2" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/arm2.uasset" SILENT=true
+[2018.04.01-13.17.18:738][969]LogSavePackage: Save=20.53ms
+[2018.04.01-13.17.18:738][969]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/arm202A94E0140DA917E89001DA59091086C.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/arm2.uasset'
+[2018.04.01-13.17.18:741][969]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/arm2.uasset
+[2018.04.01-13.17.18:754][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot_Model/meshes/arm1" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/arm1.uasset" SILENT=true
+[2018.04.01-13.17.18:771][969]LogSavePackage: Save=15.64ms
+[2018.04.01-13.17.18:771][969]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/arm13509A9314264A065938BFD8421A7882B.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/arm1.uasset'
+[2018.04.01-13.17.18:775][969]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/arm1.uasset
+[2018.04.01-13.17.18:803][969]LogSavePackage: Save=14.32ms
+[2018.04.01-13.17.18:803][969]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/lambert1_003A2D8F3FD45C69C6053D85D80F146CD79.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/lambert1_003.uasset'
+[2018.04.01-13.17.18:806][969]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/lambert1_003.uasset
+[2018.04.01-13.17.18:834][969]LogSavePackage: Save=14.30ms
+[2018.04.01-13.17.18:835][969]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/lambert1_0023B2B219148F6EF410908CBBE45ADC6EA.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/lambert1_002.uasset'
+[2018.04.01-13.17.18:838][969]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/lambert1_002.uasset
+[2018.04.01-13.17.18:866][969]LogSavePackage: Save=14.97ms
+[2018.04.01-13.17.18:866][969]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/lambert1_001A9562E594EC8FB9DE81F7BB1BA689AD6.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/lambert1_001.uasset'
+[2018.04.01-13.17.18:870][969]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/lambert1_001.uasset
+[2018.04.01-13.17.18:881][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot_Model/meshes/lambert1" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/lambert1.uasset" SILENT=true
+[2018.04.01-13.17.18:898][969]LogSavePackage: Save=14.64ms
+[2018.04.01-13.17.18:898][969]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/lambert14FDEB4464EDC429A3773EFA3B64A3514.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/lambert1.uasset'
+[2018.04.01-13.17.18:901][969]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/lambert1.uasset
+[2018.04.01-13.17.19:342][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot_Model/Robot" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/Robot.uasset" SILENT=true
+[2018.04.01-13.17.19:385][969]LogSavePackage: Save=34.84ms
+[2018.04.01-13.17.19:385][969]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/Robot2B8E3CF9427BA8FBDCE89CBFDE866C7F.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/Robot.uasset'
+[2018.04.01-13.17.19:388][969]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/Robot.uasset
+[2018.04.01-13.17.24:772][382]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.04.01-13.17.37:644][274]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.04.01-13.17.38:393][274]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.01-13.17.38:485][274]LogSlate: Took 0.004199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.01-13.17.38:574][275]LogSlate: Took 0.004227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.01-13.17.40:916][428]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2018.04.01-13.18.38:506][373]BlueprintLog: New page: Compile Robot
+[2018.04.01-13.18.39:329][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot_Model/Robot" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/Robot.uasset" SILENT=true
+[2018.04.01-13.18.39:356][389]LogSavePackage: Save=24.15ms
+[2018.04.01-13.18.39:356][389]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/Robot9D99824B45561A9E1A3AC4B6030DE74E.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/Robot.uasset'
+[2018.04.01-13.18.39:360][389]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/Robot.uasset
+[2018.04.01-13.19.14:513][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot_Model/Robot" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/Robot.uasset" SILENT=true
+[2018.04.01-13.19.14:531][954]LogSavePackage: Save=15.04ms
+[2018.04.01-13.19.14:531][954]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/RobotB6BF99DF4A9E979AAE73A4B80F55BAEB.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/Robot.uasset'
+[2018.04.01-13.19.14:532][954]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/Robot.uasset
+[2018.04.01-13.20.58:824][696]LogMetaData: Removing '/Game/Robot_Model/BP_Robot.BP_Robot_C' ref from Metadata '/Game/Robot_Model/Robot.PackageMetaData'
+[2018.04.01-13.20.58:824][696]LogMetaData: Removing '/Game/Robot_Model/BP_Robot.SKEL_BP_Robot_C' ref from Metadata '/Game/Robot_Model/Robot.PackageMetaData'
+[2018.04.01-13.20.58:824][696]LogMetaData: Removing '/Game/Robot_Model/BP_Robot.BP_Robot:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Robot_Model/Robot.PackageMetaData'
+[2018.04.01-13.20.58:856][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot_Model/BP_Robot" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset" SILENT=true
+[2018.04.01-13.20.58:885][696]LogSavePackage: Save=25.81ms
+[2018.04.01-13.20.58:885][696]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/BP_Robot6D3F347C4F0165A2AA8B21BD1BB83163.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset'
+[2018.04.01-13.20.58:888][696]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset
+[2018.04.01-13.21.41:334][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot_Model/meshes/SM_arm1" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/SM_arm1.uasset" SILENT=true
+[2018.04.01-13.21.41:352][900]LogSavePackage: Save=16.13ms
+[2018.04.01-13.21.41:352][900]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/SM_arm1E6A69D6A401F53D52612B3BC6360AB8B.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/SM_arm1.uasset'
+[2018.04.01-13.21.41:357][900]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/SM_arm1.uasset
+[2018.04.01-13.21.41:521][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot_Model/BP_Robot" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset" SILENT=true
+[2018.04.01-13.21.41:552][900]LogSavePackage: Save=23.34ms
+[2018.04.01-13.21.41:552][900]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/BP_Robot14F7847B47593DFD45032D9634DAB0EE.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset'
+[2018.04.01-13.21.41:555][900]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset
+[2018.04.01-13.21.48:604][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot_Model/meshes/SM_arm2" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/SM_arm2.uasset" SILENT=true
+[2018.04.01-13.21.48:624][282]LogSavePackage: Save=17.11ms
+[2018.04.01-13.21.48:625][282]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/SM_arm25A15CD804A9D35FEAAD13A981F4EDD39.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/SM_arm2.uasset'
+[2018.04.01-13.21.48:628][282]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/SM_arm2.uasset
+[2018.04.01-13.21.48:792][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot_Model/BP_Robot" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset" SILENT=true
+[2018.04.01-13.21.48:817][282]LogSavePackage: Save=23.10ms
+[2018.04.01-13.21.48:817][282]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/BP_Robot98E3BECA4254BCB2FBC73BA819803B76.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset'
+[2018.04.01-13.21.48:821][282]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset
+[2018.04.01-13.21.53:882][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot_Model/meshes/SM_base" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/SM_base.uasset" SILENT=true
+[2018.04.01-13.21.53:900][570]LogSavePackage: Save=16.29ms
+[2018.04.01-13.21.53:900][570]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/SM_baseEB17734D4C0AF4A09C30B4BD9D2D7E30.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/SM_base.uasset'
+[2018.04.01-13.21.53:903][570]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/SM_base.uasset
+[2018.04.01-13.21.54:065][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot_Model/BP_Robot" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset" SILENT=true
+[2018.04.01-13.21.54:091][570]LogSavePackage: Save=22.76ms
+[2018.04.01-13.21.54:091][570]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/BP_RobotFBC9968D4448EC4B984D328DCDCAA7A9.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset'
+[2018.04.01-13.21.54:094][570]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset
+[2018.04.01-13.22.00:222][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot_Model/meshes/SM_hand" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/SM_hand.uasset" SILENT=true
+[2018.04.01-13.22.00:241][960]LogSavePackage: Save=16.23ms
+[2018.04.01-13.22.00:241][960]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/SM_handF362BB844F542A365DCC1287E70C6480.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/SM_hand.uasset'
+[2018.04.01-13.22.00:244][960]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/SM_hand.uasset
+[2018.04.01-13.22.00:404][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot_Model/BP_Robot" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset" SILENT=true
+[2018.04.01-13.22.00:430][960]LogSavePackage: Save=22.90ms
+[2018.04.01-13.22.00:430][960]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/BP_RobotAD67FB73432AE163C08919912B5EE037.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset'
+[2018.04.01-13.22.00:434][960]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset
+[2018.04.01-13.22.15:523][ 38]LogSavePackage: Save=14.52ms
+[2018.04.01-13.22.15:523][ 38]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/M_lambert1473139DE4632A610C6C5EB86E3BE1495.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/M_lambert1.uasset'
+[2018.04.01-13.22.15:527][ 38]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/M_lambert1.uasset
+[2018.04.01-13.22.15:690][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot_Model/BP_Robot" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset" SILENT=true
+[2018.04.01-13.22.15:715][ 38]LogSavePackage: Save=22.68ms
+[2018.04.01-13.22.15:715][ 38]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/BP_Robot19645B6A464642B52F131B941C448BA3.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset'
+[2018.04.01-13.22.15:719][ 38]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset
+[2018.04.01-13.22.21:148][359]LogSavePackage: Save=14.76ms
+[2018.04.01-13.22.21:148][359]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/M_lambert1_0017EE6837249CA630A8F6BD589988AD474.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/M_lambert1_001.uasset'
+[2018.04.01-13.22.21:151][359]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/M_lambert1_001.uasset
+[2018.04.01-13.22.21:316][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot_Model/BP_Robot" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset" SILENT=true
+[2018.04.01-13.22.21:341][359]LogSavePackage: Save=22.79ms
+[2018.04.01-13.22.21:341][359]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/BP_Robot1AB1C90D40CEAF3FEDEA5FA7157E2E5A.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset'
+[2018.04.01-13.22.21:345][359]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset
+[2018.04.01-13.22.26:786][694]LogSavePackage: Save=14.81ms
+[2018.04.01-13.22.26:786][694]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/M_lambert1_0023DA1F7464C8E47B41B2727B63ABD0F86.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/M_lambert1_002.uasset'
+[2018.04.01-13.22.26:789][694]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/M_lambert1_002.uasset
+[2018.04.01-13.22.26:952][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot_Model/BP_Robot" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset" SILENT=true
+[2018.04.01-13.22.26:978][694]LogSavePackage: Save=23.19ms
+[2018.04.01-13.22.26:979][694]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/BP_Robot3A654295497D689B8BC1CFB407E5F151.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset'
+[2018.04.01-13.22.26:982][694]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset
+[2018.04.01-13.22.32:427][ 35]LogSavePackage: Save=16.11ms
+[2018.04.01-13.22.32:428][ 35]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/M_lambert1_0037C5EC94B493912C480F1F5A898EB7AF9.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/M_lambert1_003.uasset'
+[2018.04.01-13.22.32:431][ 35]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/meshes/M_lambert1_003.uasset
+[2018.04.01-13.22.32:594][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot_Model/BP_Robot" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset" SILENT=true
+[2018.04.01-13.22.32:620][ 35]LogSavePackage: Save=23.73ms
+[2018.04.01-13.22.32:620][ 35]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/BP_Robot19C208F04A6EFDD64E9A17A222286DD5.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset'
+[2018.04.01-13.22.32:624][ 35]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset
+[2018.04.01-13.23.03:798][185]BlueprintLog: New page: Compile BP_Robot
+[2018.04.01-13.23.04:623][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot_Model/BP_Robot" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset" SILENT=true
+[2018.04.01-13.23.04:649][213]LogSavePackage: Save=23.03ms
+[2018.04.01-13.23.04:649][213]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/BP_Robot3D0CEA854DFF17104EA50B824446629C.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset'
+[2018.04.01-13.23.04:651][213]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset
+[2018.04.01-13.23.17:129][585]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.01-13.23.17:170][585]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.01-13.23.17:171][585]PIE: New page: PIE session: World (1 Apr 2018 15:23:17)
+[2018.04.01-13.23.17:171][585]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_World
+[2018.04.01-13.23.17:176][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005161s)
+[2018.04.01-13.23.17:177][585]LogAIModule: Creating AISystem for world World
+[2018.04.01-13.23.17:177][585]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2018.04.01-13.23.17:177][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/World.World to /Game/UEDPIE_0_World.World (0.006358s)
+[2018.04.01-13.23.17:217][585]LogInit: XAudio2 using 'Speakers (EDIFIER e3350 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.01-13.23.17:225][585]LogInit: FAudioDevice initialized.
+[2018.04.01-13.23.17:268][585]LogLoad: Game class is 'GameModeBase'
+[2018.04.01-13.23.17:270][585]LogWorld: Bringing World /Game/UEDPIE_0_World.World up for play (max tick rate 0) at 2018.04.01-14.23.17
+[2018.04.01-13.23.17:271][585]LogWorld: Bringing up level for play took: 0.000897
+[2018.04.01-13.23.17:336][585]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.04.01-13.23.17:337][585]PIE: Play in editor start time for /Game/UEDPIE_0_World -0.258
+[2018.04.01-13.23.31:560][279]LogEditorViewport: Clicking on Actor (LMB): BP_Robot_C (BP_Robot)
+[2018.04.01-13.23.32:606][401]Cmd: DELETE
+[2018.04.01-13.23.32:606][401]Cmd: ACTOR DELETE
+[2018.04.01-13.23.32:607][401]LogEditorActor: Deleted Actor: BP_Robot_C
+[2018.04.01-13.23.32:630][401]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.04.01-13.23.37:720][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.01-13.23.37:780][927]LogSavePackage: Save=29.25ms
+[2018.04.01-13.23.37:780][927]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/WorldFDE1A872475999810A3AF885DFCD329D.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World.umap'
+[2018.04.01-13.23.37:784][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World.umap
+[2018.04.01-13.23.37:799][927]LogFileHelpers: Saving map 'World' took 0.147
