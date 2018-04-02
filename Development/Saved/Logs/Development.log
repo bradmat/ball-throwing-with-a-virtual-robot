@@ -630,3 +630,30 @@ LogInit: Object subsystem initialized
 [2018.04.01-13.23.37:780][927]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/WorldFDE1A872475999810A3AF885DFCD329D.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World.umap'
 [2018.04.01-13.23.37:784][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World.umap
 [2018.04.01-13.23.37:799][927]LogFileHelpers: Saving map 'World' took 0.147
+[2018.04.01-13.57.49:927][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.01-13.57.49:929][ 42]PIE: New page: PIE session: World (1 Apr 2018 15:57:49)
+[2018.04.01-13.57.49:929][ 42]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_World
+[2018.04.01-13.57.49:957][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026485s)
+[2018.04.01-13.57.49:960][ 42]LogAIModule: Creating AISystem for world World
+[2018.04.01-13.57.49:962][ 42]LogPlayLevel: PIE: World Init took: (0.005065s)
+[2018.04.01-13.57.49:964][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/World.World to /Game/UEDPIE_0_World.World (0.034623s)
+[2018.04.01-13.57.50:161][ 42]LogInit: XAudio2 using 'Speakers (EDIFIER e3350 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.01-13.57.50:168][ 42]LogInit: FAudioDevice initialized.
+[2018.04.01-13.57.50:200][ 42]LogLoad: Game class is 'GameModeBase'
+[2018.04.01-13.57.50:201][ 42]LogWorld: Bringing World /Game/UEDPIE_0_World.World up for play (max tick rate 0) at 2018.04.01-14.57.50
+[2018.04.01-13.57.50:202][ 42]LogWorld: Bringing up level for play took: 0.001224
+[2018.04.01-13.57.50:206][ 42]PIE: Play in editor start time for /Game/UEDPIE_0_World 0.611
+[2018.04.02-00.41.04:373][344]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{b9953e74-a8a6-4797-ab69-e819fe2ca7b7} was removed. Shutting down audio device.
+[2018.04.02-00.41.04:922][344]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.04.02-00.41.05:061][344]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.04.02-09.51.12:223][365]LogInit: XAudio2 using 'Speakers (EDIFIER e3350 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.02-16.34.51:310][513]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbRight_X' for  Get MotionControllerThumbRight_X
+[2018.04.02-16.34.51:310][513]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbRight_Y' for  Get MotionControllerThumbRight_Y
+[2018.04.02-16.34.51:310][513]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbLeft_Y' for  Get MotionControllerThumbLeft_Y
+[2018.04.02-16.34.51:310][513]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbLeft_X' for  Get MotionControllerThumbLeft_X
+[2018.04.02-16.34.51:312][513]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'TeleportRight' for  InputAction TeleportRight
+[2018.04.02-16.34.51:312][513]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'TeleportLeft' for  InputAction TeleportLeft
+[2018.04.02-16.34.51:312][513]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'GrabRight' for  InputAction GrabRight
+[2018.04.02-16.34.51:312][513]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'GrabLeft' for  InputAction GrabLeft
+[2018.04.02-16.34.51:324][513]LogBlueprint: Warning: [Compiler MotionControllerPawn] [9059.06] Compile of MotionControllerPawn successful, but with 8 Warning(s) [in 33 ms] (/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn)
+[2018.04.02-16.35.49:324][200]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
