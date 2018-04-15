@@ -905,3 +905,40 @@ LogInit: Object subsystem initialized
 [2018.04.15-16.54.48:126][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2018.04.15-16.54.48:164][505]LogSlate: Window 'BP_Catch' being destroyed
 [2018.04.15-16.54.48:167][505]LogSlate: Window 'BP_Catch' being destroyed
+[2018.04.15-16.56.01:824][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.15-16.56.11:477][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.15-16.56.14:346][177]BlueprintLog: New page: Compile BP_Catch
+[2018.04.15-16.56.15:065][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Catch" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset" SILENT=true
+[2018.04.15-16.56.15:101][184]LogSavePackage: Save=30.05ms
+[2018.04.15-16.56.15:101][184]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/BP_Catch2EE9FEB94F76D7FF611486952B05D28D.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset'
+[2018.04.15-16.56.15:105][184]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset
+[2018.04.15-16.56.15:892][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.15-16.56.15:963][244]LogSlate: Window 'BP_Catch' being destroyed
+[2018.04.15-16.56.15:966][244]LogSlate: Window 'BP_Catch' being destroyed
+[2018.04.15-16.56.44:185][871]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.04.15-16.56.44:839][945]Cmd: TRANSACTION UNDO
+[2018.04.15-16.56.44:840][945]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.15-16.56.47:015][ 10]Cmd: TRANSACTION UNDO
+[2018.04.15-16.56.47:016][ 10]LogEditorTransaction: Undo Edit Sphere Radius
+[2018.04.15-16.56.49:130][ 58]Cmd: TRANSACTION UNDO
+[2018.04.15-16.56.49:130][ 58]LogEditorTransaction: Undo Set Location
+[2018.04.15-16.56.51:101][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.15-16.56.51:315][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-16.56.51:509][101]LogSavePackage: Save=137.38ms
+[2018.04.15-16.56.51:509][101]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/WorldBE729D2F494FEB8CD6B4AD835CC0A703.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World.umap'
+[2018.04.15-16.56.51:512][101]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World.umap
+[2018.04.15-16.56.51:546][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World_BuiltData" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World_BuiltData.uasset" SILENT=true
+[2018.04.15-16.56.51:578][101]LogSavePackage: Save=21.27ms
+[2018.04.15-16.56.51:578][101]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/World_BuiltDataCDE6AC244E56BAA3022B92BA0342D771.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World_BuiltData.uasset'
+[2018.04.15-16.56.51:581][101]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World_BuiltData.uasset
+[2018.04.15-16.57.19:186][463]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.15-16.57.33:246][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.15-16.57.37:857][528]BlueprintLog: New page: Compile BP_Catch
+[2018.04.15-16.57.37:883][528]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_8, Actor: /Engine/Transient.World_8:PersistentLevel.REINST_BP_Catch_C_0
+[2018.04.15-16.57.38:956][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Catch" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset" SILENT=true
+[2018.04.15-16.57.38:993][544]LogSavePackage: Save=30.52ms
+[2018.04.15-16.57.38:993][544]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/BP_Catch7B5302474BA3E422B728EFBBAC7B7419.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset'
+[2018.04.15-16.57.38:996][544]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset
+[2018.04.15-16.57.40:033][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.15-16.57.40:105][624]LogSlate: Window 'BP_Catch' being destroyed
+[2018.04.15-16.57.40:108][624]LogSlate: Window 'BP_Catch' being destroyed
