@@ -942,3 +942,134 @@ LogInit: Object subsystem initialized
 [2018.04.15-16.57.40:033][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2018.04.15-16.57.40:105][624]LogSlate: Window 'BP_Catch' being destroyed
 [2018.04.15-16.57.40:108][624]LogSlate: Window 'BP_Catch' being destroyed
+[2018.04.15-16.58.16:350][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.15-17.00.02:021][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-17.00.02:185][792]LogSavePackage: Save=144.06ms
+[2018.04.15-17.00.02:185][792]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/World49678A124DC61288E7995E864A82DBF3.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World.umap'
+[2018.04.15-17.00.02:190][792]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World.umap
+[2018.04.15-17.00.02:224][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World_BuiltData" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World_BuiltData.uasset" SILENT=true
+[2018.04.15-17.00.02:252][792]LogSavePackage: Save=22.63ms
+[2018.04.15-17.00.02:252][792]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/World_BuiltDataF260A98C442227BA8553898F1BE36326.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World_BuiltData.uasset'
+[2018.04.15-17.00.02:253][792]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World_BuiltData.uasset
+[2018.04.15-17.03.25:000][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.15-17.03.28:478][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.15-17.03.39:609][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.15-17.03.40:883][201]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.15-17.03.53:477][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.15-17.04.02:163][563]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.15-17.04.16:311][547]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.15-17.04.32:025][925]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.15-17.04.35:977][206]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.15-17.04.41:911][384]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.15-17.04.47:881][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2018.04.15-17.05.02:624][372]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.15-17.05.24:681][751]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.15-17.05.33:010][293]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.15-17.05.40:819][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.15-17.05.40:899][753]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-17.05.40:918][753]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.15-17.05.40:919][753]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-17.05.40:919][753]PIE: New page: PIE session: World (15 Apr 2018 19:05:40)
+[2018.04.15-17.05.40:919][753]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_World
+[2018.04.15-17.05.40:924][753]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004650s)
+[2018.04.15-17.05.40:924][753]LogAIModule: Creating AISystem for world World
+[2018.04.15-17.05.40:924][753]LogPlayLevel: PIE: World Init took: (0.000665s)
+[2018.04.15-17.05.40:924][753]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/World.World to /Game/UEDPIE_0_World.World (0.005691s)
+[2018.04.15-17.05.40:952][753]LogInit: XAudio2 using 'Speakers (EDIFIER e3350 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.15-17.05.40:958][753]LogInit: FAudioDevice initialized.
+[2018.04.15-17.05.40:994][753]LogLoad: Game class is 'GameModeBase'
+[2018.04.15-17.05.40:995][753]LogWorld: Bringing World /Game/UEDPIE_0_World.World up for play (max tick rate 0) at 2018.04.15-18.05.40
+[2018.04.15-17.05.40:995][753]LogWorld: Bringing up level for play took: 0.001200
+[2018.04.15-17.05.40:998][753]PIE: Play in editor start time for /Game/UEDPIE_0_World 0.684
+[2018.04.15-17.05.40:998][753]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.15-17.05.42:892][952]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.15-17.05.42:933][952]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.15-17.06.00:592][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2018.04.15-17.06.07:271][745]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.15-17.06.14:879][285]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.15-17.06.24:995][988]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.15-17.06.40:913][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.15-17.07.50:635][974]LogSlate: Window 'Material Baking Options' being destroyed
+[2018.04.15-17.07.55:811][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.15-17.07.56:318][518]Cmd: TRANSACTION UNDO
+[2018.04.15-17.07.56:318][518]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.15-17.07.56:890][552]Cmd: TRANSACTION UNDO
+[2018.04.15-17.07.56:890][552]LogEditorTransaction: Undo Replace component used material
+[2018.04.15-17.07.57:413][579]Cmd: TRANSACTION UNDO
+[2018.04.15-17.07.57:413][579]LogEditorTransaction: Undo Replace component used material
+[2018.04.15-17.07.57:852][602]Cmd: TRANSACTION UNDO
+[2018.04.15-17.07.57:852][602]LogEditorTransaction: Undo Set Scale
+[2018.04.15-17.08.03:534][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.15-17.08.08:201][287]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (BP_PickupCube3)
+[2018.04.15-17.08.09:630][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.15-17.08.17:686][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.15-17.08.20:546][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.15-17.08.20:655][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-17.08.20:819][300]LogSavePackage: Save=138.70ms
+[2018.04.15-17.08.20:819][300]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/World0AE4BA0D49CDC25F87AB55B0C4F63D77.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World.umap'
+[2018.04.15-17.08.20:823][300]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World.umap
+[2018.04.15-17.08.20:873][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World_BuiltData" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World_BuiltData.uasset" SILENT=true
+[2018.04.15-17.08.20:906][300]LogSavePackage: Save=21.59ms
+[2018.04.15-17.08.20:906][300]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/World_BuiltData3B1A93A1461AC1DE28872189F2CB7BCA.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World_BuiltData.uasset'
+[2018.04.15-17.08.20:907][300]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World_BuiltData.uasset
+[2018.04.15-17.08.22:659][473]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.04.15-17.08.22:715][473]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.15-17.08.23:122][515]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.04.15-17.08.23:147][515]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.15-17.08.30:600][241]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (BP_PickupCube3)
+[2018.04.15-17.08.31:602][314]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.15-17.08.52:734][146]Cmd: TRANSACTION UNDO
+[2018.04.15-17.08.52:734][146]LogEditorTransaction: Undo Edit Static Mesh
+[2018.04.15-17.08.55:406][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.15-17.08.55:504][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-17.08.55:665][288]LogSavePackage: Save=141.49ms
+[2018.04.15-17.08.55:665][288]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/World09BC82EF4DB1FE4BE783E2AE233F6550.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World.umap'
+[2018.04.15-17.08.55:668][288]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World.umap
+[2018.04.15-17.08.55:702][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World_BuiltData" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World_BuiltData.uasset" SILENT=true
+[2018.04.15-17.08.55:729][288]LogSavePackage: Save=21.06ms
+[2018.04.15-17.08.55:729][288]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/World_BuiltDataB3A88B3C4E8B007CB20DE9A0D7597E68.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World_BuiltData.uasset'
+[2018.04.15-17.08.55:731][288]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World_BuiltData.uasset
+[2018.04.15-17.09.56:608][981]LogEditorViewport: Clicking on Actor (LMB): BP_Robot_C (BP_Robot)
+[2018.04.15-17.10.05:178][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.15-17.10.15:566][914]Cmd: TRANSACTION UNDO
+[2018.04.15-17.10.15:566][914]LogEditorTransaction: Undo Create Actors
+[2018.04.15-17.10.39:194][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.15-17.10.59:129][441]Cmd: TRANSACTION UNDO
+[2018.04.15-17.10.59:129][441]LogEditorTransaction: Undo Create Actors
+[2018.04.15-17.11.16:383][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.15-17.11.16:507][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-17.11.16:675][ 81]LogSavePackage: Save=149.48ms
+[2018.04.15-17.11.16:675][ 81]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/World1FDD44074E6067606A2E1EA086AEEC77.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World.umap'
+[2018.04.15-17.11.16:679][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World.umap
+[2018.04.15-17.11.16:730][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World_BuiltData" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World_BuiltData.uasset" SILENT=true
+[2018.04.15-17.11.16:757][ 81]LogSavePackage: Save=21.43ms
+[2018.04.15-17.11.16:757][ 81]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/World_BuiltData9F289994410EC3B9F4F4A49640FB4FE1.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World_BuiltData.uasset'
+[2018.04.15-17.11.16:758][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World_BuiltData.uasset
+[2018.04.15-17.11.26:828][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2018.04.15-17.11.28:370][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.04.15-17.11.30:478][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2018.04.15-17.11.31:834][631]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.15-17.11.46:349][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.15-17.11.48:998][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.15-17.11.51:047][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.15-17.11.53:730][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.15-17.12.04:672][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.15-17.12.04:771][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-17.12.04:927][ 56]LogSavePackage: Save=137.83ms
+[2018.04.15-17.12.04:928][ 56]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/World6BD1BF924F6FEF8A3FFC5988B2183AFB.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World.umap'
+[2018.04.15-17.12.04:931][ 56]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World.umap
+[2018.04.15-17.12.04:964][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World_BuiltData" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World_BuiltData.uasset" SILENT=true
+[2018.04.15-17.12.04:992][ 56]LogSavePackage: Save=21.93ms
+[2018.04.15-17.12.04:992][ 56]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/World_BuiltData2C4DDF454F54FAB50A444CB8C12F0251.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World_BuiltData.uasset'
+[2018.04.15-17.12.04:993][ 56]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World_BuiltData.uasset
+[2018.04.15-17.12.10:563][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.15-17.12.15:409][673]LogSlate: Window 'Save Content' being destroyed
+[2018.04.15-17.12.16:086][744]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.15-17.12.16:205][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-17.12.16:361][751]LogSavePackage: Save=138.68ms
+[2018.04.15-17.12.16:361][751]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/WorldEF70FF4D4928B4976C269B898D283BD1.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World.umap'
+[2018.04.15-17.12.16:365][751]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World.umap
+[2018.04.15-17.12.16:398][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World_BuiltData" FILE="../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World_BuiltData.uasset" SILENT=true
+[2018.04.15-17.12.16:425][751]LogSavePackage: Save=21.62ms
+[2018.04.15-17.12.16:426][751]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/World_BuiltDataC67092574B6A82B3EC228982C0117143.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World_BuiltData.uasset'
+[2018.04.15-17.12.16:427][751]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World_BuiltData.uasset
