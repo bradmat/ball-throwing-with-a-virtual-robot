@@ -1073,3 +1073,11 @@ LogInit: Object subsystem initialized
 [2018.04.15-17.12.16:425][751]LogSavePackage: Save=21.62ms
 [2018.04.15-17.12.16:426][751]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/World_BuiltDataC67092574B6A82B3EC228982C0117143.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World_BuiltData.uasset'
 [2018.04.15-17.12.16:427][751]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Content/World_BuiltData.uasset
+[2018.04.15-17.22.16:666][675]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/World' took 0.014
+[2018.04.15-17.22.16:674][675]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualReality/Mannequin/Character/Materials/M_HandMat] ([1] browsable assets)...
+[2018.04.15-17.22.16:709][675]OBJ SavePackage:     Rendered thumbnail for [Material /Game/VirtualReality/Mannequin/Character/Materials/M_HandMat.M_HandMat]
+[2018.04.15-17.22.16:709][675]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualReality/Mannequin/Character/Materials/M_HandMat]
+[2018.04.15-17.22.16:741][675]LogSavePackage: Save=18.19ms
+[2018.04.15-17.22.16:741][675]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/M_HandMat_Auto121426CE64C71F59F687A678E7AD657DF.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/Autosaves/Game/VirtualReality/Mannequin/Character/Materials/M_HandMat_Auto1.uasset'
+[2018.04.15-17.22.16:742][675]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Research-Project/Development/Saved/Autosaves/Game/VirtualReality/Mannequin/Character/Materials/M_HandMat_Auto1.uasset
+[2018.04.15-17.22.16:742][675]LogFileHelpers: Auto-saving content packages took 0.071
