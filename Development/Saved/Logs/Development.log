@@ -625,3 +625,437 @@ LogInit: Object subsystem initialized
 [2018.04.20-10.44.51:794][707]LogSavePackage: Save=25.19ms
 [2018.04.20-10.44.51:794][707]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_CatchA0B4EDF7493467844CD8FDACF98D521B.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset'
 [2018.04.20-10.44.51:803][707]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset
+[2018.04.20-10.47.29:279][ 17]BlueprintLog: New page: Compile BP_Catch
+[2018.04.20-10.47.29:918][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Catch" FILE="../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset" SILENT=true
+[2018.04.20-10.47.29:954][ 46]LogSavePackage: Save=24.88ms
+[2018.04.20-10.47.29:954][ 46]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_Catch3DFBEE8546E3E37C65A89D9BFF621E0B.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset'
+[2018.04.20-10.47.29:962][ 46]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset
+[2018.04.20-10.48.28:813][750]BlueprintLog: New page: Compile BP_Robot
+[2018.04.20-10.48.29:710][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot_Model/BP_Robot" FILE="../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset" SILENT=true
+[2018.04.20-10.48.29:753][782]LogSavePackage: Save=29.66ms
+[2018.04.20-10.48.29:753][782]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_Robot42EF6C4C405782F0CCC2B8B058178E87.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset'
+[2018.04.20-10.48.29:762][782]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset
+[2018.04.20-10.50.12:216][ 71]BlueprintLog: New page: Compile BP_Robot
+[2018.04.20-10.50.12:878][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot_Model/BP_Robot" FILE="../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset" SILENT=true
+[2018.04.20-10.50.12:919][ 97]LogSavePackage: Save=29.67ms
+[2018.04.20-10.50.12:919][ 97]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_RobotDAC4A1754C93F05EA83AC49D566F6524.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset'
+[2018.04.20-10.50.12:928][ 97]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset
+[2018.04.20-10.53.40:668][ 72]BlueprintLog: New page: Compile BP_PickupCube
+[2018.04.20-10.53.41:474][ 94]LogSavePackage: Save=19.49ms
+[2018.04.20-10.53.41:475][ 94]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_PickupCubeDAA63D1E4895B7F545EE1CB2DB9E1F2A.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset'
+[2018.04.20-10.53.41:484][ 94]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset
+[2018.04.20-10.53.59:926][853]LogEditorTransaction: Undo Move Node
+[2018.04.20-10.54.17:711][511]BlueprintLog: New page: Compile BP_Catch
+[2018.04.20-10.54.18:360][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Catch" FILE="../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset" SILENT=true
+[2018.04.20-10.54.18:399][541]LogSavePackage: Save=25.72ms
+[2018.04.20-10.54.18:400][541]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_Catch24E4F1374F61CA81BD3FFDB5FA9B9FAB.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset'
+[2018.04.20-10.54.18:408][541]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset
+[2018.04.20-10.54.42:027][902]BlueprintLog: New page: Compile BP_PickupCube
+[2018.04.20-10.54.42:878][932]LogSavePackage: Save=18.69ms
+[2018.04.20-10.54.42:878][932]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_PickupCube734F660D461674015DD3EA89A22D550D.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset'
+[2018.04.20-10.54.42:887][932]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset
+[2018.04.20-10.54.51:962][853]BlueprintLog: New page: Compile BP_Catch
+[2018.04.20-10.54.52:620][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Catch" FILE="../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset" SILENT=true
+[2018.04.20-10.54.52:657][885]LogSavePackage: Save=25.23ms
+[2018.04.20-10.54.52:657][885]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_Catch4910F5E14F40752294D3428D73C115C4.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset'
+[2018.04.20-10.54.52:665][885]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset
+[2018.04.20-10.55.26:328][113]BlueprintLog: New page: Compile BP_Robot
+[2018.04.20-10.55.26:966][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot_Model/BP_Robot" FILE="../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset" SILENT=true
+[2018.04.20-10.55.27:009][136]LogSavePackage: Save=29.43ms
+[2018.04.20-10.55.27:009][136]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_Robot76DE4D7549B63A0B5BD9A89E05FBF7C4.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset'
+[2018.04.20-10.55.27:018][136]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset
+[2018.04.20-10.56.37:347][578]LogTemp: Repeating last play command: VR Preview
+[2018.04.20-10.56.37:359][578]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.20-10.56.37:360][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.20-10.56.37:360][578]PIE: New page: PIE session: World (20 Apr 2018 12:56:37)
+[2018.04.20-10.56.37:360][578]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_World
+[2018.04.20-10.56.37:365][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004220s)
+[2018.04.20-10.56.37:366][578]LogAIModule: Creating AISystem for world World
+[2018.04.20-10.56.37:366][578]LogPlayLevel: PIE: World Init took: (0.001158s)
+[2018.04.20-10.56.37:366][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/World.World to /Game/UEDPIE_0_World.World (0.005929s)
+[2018.04.20-10.56.37:398][578]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.20-10.56.37:406][578]LogInit: FAudioDevice initialized.
+[2018.04.20-10.56.37:498][578]LogLoad: Game class is 'GameModeBase'
+[2018.04.20-10.56.37:500][578]LogWorld: Bringing World /Game/UEDPIE_0_World.World up for play (max tick rate 0) at 2018.04.20-11.56.37
+[2018.04.20-10.56.37:500][578]LogWorld: Bringing up level for play took: 0.001418
+[2018.04.20-10.56.37:514][578]PIE: Play in editor start time for /Game/UEDPIE_0_World 1.048
+[2018.04.20-10.56.37:514][578]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.20-10.56.55:987][229]LogNet: Browse: /Game/World
+[2018.04.20-10.56.55:998][229]LogLoad: LoadMap: /Game/World
+[2018.04.20-10.56.56:028][229]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_World
+[2018.04.20-10.56.56:032][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003787s)
+[2018.04.20-10.56.56:033][229]LogAIModule: Creating AISystem for world World
+[2018.04.20-10.56.56:033][229]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2018.04.20-10.56.56:033][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/World.World to /Game/UEDPIE_0_World.World (0.005135s)
+[2018.04.20-10.56.56:034][229]LogLoad: Game class is 'GameModeBase'
+[2018.04.20-10.56.56:035][229]LogWorld: Bringing World /Game/UEDPIE_0_World.World up for play (max tick rate 0) at 2018.04.20-11.56.56
+[2018.04.20-10.56.56:035][229]LogWorld: Bringing up level for play took: 0.001163
+[2018.04.20-10.56.56:038][229]LogLoad: Took 0.039458 seconds to LoadMap(/Game/UEDPIE_0_World)
+[2018.04.20-10.57.05:415][ 69]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.20-10.57.05:541][ 69]LogSlate: Window 'Development Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.20-10.57.05:566][ 69]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.20-10.57.10:956][481]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.04.20-10.57.11:596][484]LogSavePackage: Save=76.67ms
+[2018.04.20-10.57.11:596][484]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/MotionControllerPawnAC01A3104075D389773FD88C1E5E658F.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.04.20-10.57.11:603][484]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.04.20-10.57.14:024][681]BlueprintLog: New page: Compile BP_PickupCube
+[2018.04.20-10.57.14:856][703]LogSavePackage: Save=18.82ms
+[2018.04.20-10.57.14:856][703]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_PickupCubeD0B3599942042C9489F9CEBB086A10E2.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset'
+[2018.04.20-10.57.14:862][703]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset
+[2018.04.20-10.57.16:368][834]BlueprintLog: New page: Compile BP_Catch
+[2018.04.20-10.57.17:075][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Catch" FILE="../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset" SILENT=true
+[2018.04.20-10.57.17:110][866]LogSavePackage: Save=24.12ms
+[2018.04.20-10.57.17:111][866]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_CatchFD86AE70434ACAA932886FBFF9B4E780.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset'
+[2018.04.20-10.57.17:116][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset
+[2018.04.20-10.57.18:464][977]BlueprintLog: New page: Compile BP_Robot
+[2018.04.20-10.57.19:200][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot_Model/BP_Robot" FILE="../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset" SILENT=true
+[2018.04.20-10.57.19:241][  7]LogSavePackage: Save=29.55ms
+[2018.04.20-10.57.19:241][  7]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_RobotECC343EE479DAF534C1E1DB679F794DB.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset'
+[2018.04.20-10.57.19:247][  7]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset
+[2018.04.20-10.57.21:172][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World" FILE="../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/World.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.20-10.57.21:320][177]LogSavePackage: Save=112.01ms
+[2018.04.20-10.57.21:320][177]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/WorldBE2CD364455F934516768EA886C53FAC.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/World.umap'
+[2018.04.20-10.57.21:329][177]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/World.umap
+[2018.04.20-10.57.21:353][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World_BuiltData" FILE="../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/World_BuiltData.uasset" SILENT=true
+[2018.04.20-10.57.21:393][177]LogSavePackage: Save=26.85ms
+[2018.04.20-10.57.21:394][177]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/World_BuiltData43AFE1D045FE49E948B974A95594BD7D.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/World_BuiltData.uasset'
+[2018.04.20-10.57.21:399][177]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/World_BuiltData.uasset
+[2018.04.20-10.58.56:585][852]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/BP_Ball.BP_Ball:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_PickupCube.PackageMetaData'
+[2018.04.20-10.58.56:585][852]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/BP_Ball.BP_Ball_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_PickupCube.PackageMetaData'
+[2018.04.20-10.58.56:586][852]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/BP_Ball.SKEL_BP_Ball_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_PickupCube.PackageMetaData'
+[2018.04.20-10.58.56:673][852]LogSavePackage: Save=23.40ms
+[2018.04.20-10.58.56:673][852]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_BallA9B13F6042FFF800B465A597700226DC.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/BP_Ball.uasset'
+[2018.04.20-10.58.56:704][852]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/BP_Ball.uasset
+[2018.04.20-10.58.56:723][852]LogSavePackage: Save=1.93ms
+[2018.04.20-10.58.56:723][852]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_PickupCubeABC332014F4FCF15AFAAD8B510E4803E.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset'
+[2018.04.20-10.58.56:731][852]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset
+[2018.04.20-10.59.00:904][241]BlueprintLog: New page: Compile BP_Ball
+[2018.04.20-10.59.02:059][290]LogSavePackage: Save=18.92ms
+[2018.04.20-10.59.02:059][290]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_BallC54A954148418949AD236995C64033EC.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/BP_Ball.uasset'
+[2018.04.20-10.59.02:064][290]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/BP_Ball.uasset
+[2018.04.20-10.59.09:967][945]BlueprintLog: New page: Compile BP_Catch
+[2018.04.20-10.59.11:169][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Catch" FILE="../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset" SILENT=true
+[2018.04.20-10.59.11:207][ 19]LogSavePackage: Save=25.38ms
+[2018.04.20-10.59.11:207][ 19]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_CatchF42B86964C4969BEB7F3A3A2ABD3E80D.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset'
+[2018.04.20-10.59.11:215][ 19]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset
+[2018.04.20-11.00.00:370][679]BlueprintLog: New page: Compile BP_Catch
+[2018.04.20-11.00.01:267][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Catch" FILE="../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset" SILENT=true
+[2018.04.20-11.00.01:306][729]LogSavePackage: Save=24.87ms
+[2018.04.20-11.00.01:306][729]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_Catch8745B18B472D35021EBDAC821F92270A.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset'
+[2018.04.20-11.00.01:314][729]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset
+[2018.04.20-11.00.55:537][757]BlueprintLog: New page: Compile BP_Robot
+[2018.04.20-11.00.56:405][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot_Model/BP_Robot" FILE="../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset" SILENT=true
+[2018.04.20-11.00.56:448][798]LogSavePackage: Save=28.14ms
+[2018.04.20-11.00.56:448][798]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_RobotD9764CE7403EE946B16EBB845AA4ECB2.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset'
+[2018.04.20-11.00.56:456][798]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/Robot_Model/BP_Robot.uasset
+[2018.04.20-11.01.05:891][615]LogTemp: Repeating last play command: VR Preview
+[2018.04.20-11.01.05:939][615]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.20-11.01.05:940][615]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.20-11.01.05:941][615]LogPlayLevel: [PlayLevel] Compiling World before play...
+[2018.04.20-11.01.06:036][615]LogPlayLevel: PlayLevel: Blueprint regeneration took 96 ms (1 blueprints)
+[2018.04.20-11.01.06:036][615]PIE: New page: PIE session: World (20 Apr 2018 13:01:06)
+[2018.04.20-11.01.06:036][615]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_World
+[2018.04.20-11.01.06:040][615]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003958s)
+[2018.04.20-11.01.06:041][615]LogAIModule: Creating AISystem for world World
+[2018.04.20-11.01.06:041][615]LogPlayLevel: PIE: World Init took: (0.000830s)
+[2018.04.20-11.01.06:041][615]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/World.World to /Game/UEDPIE_0_World.World (0.005224s)
+[2018.04.20-11.01.06:069][615]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.20-11.01.06:077][615]LogInit: FAudioDevice initialized.
+[2018.04.20-11.01.06:165][615]LogLoad: Game class is 'GameModeBase'
+[2018.04.20-11.01.06:167][615]LogWorld: Bringing World /Game/UEDPIE_0_World.World up for play (max tick rate 0) at 2018.04.20-12.01.06
+[2018.04.20-11.01.06:167][615]LogWorld: Bringing up level for play took: 0.001247
+[2018.04.20-11.01.06:178][615]PIE: Play in editor start time for /Game/UEDPIE_0_World -0.285
+[2018.04.20-11.01.06:179][615]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.20-11.01.23:961][206]LogNet: Browse: /Game/World
+[2018.04.20-11.01.23:972][206]LogLoad: LoadMap: /Game/World
+[2018.04.20-11.01.23:999][206]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_World
+[2018.04.20-11.01.24:003][206]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003853s)
+[2018.04.20-11.01.24:003][206]LogAIModule: Creating AISystem for world World
+[2018.04.20-11.01.24:004][206]LogPlayLevel: PIE: World Init took: (0.000876s)
+[2018.04.20-11.01.24:004][206]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/World.World to /Game/UEDPIE_0_World.World (0.005277s)
+[2018.04.20-11.01.24:004][206]LogLoad: Game class is 'GameModeBase'
+[2018.04.20-11.01.24:005][206]LogWorld: Bringing World /Game/UEDPIE_0_World.World up for play (max tick rate 0) at 2018.04.20-12.01.24
+[2018.04.20-11.01.24:006][206]LogWorld: Bringing up level for play took: 0.001214
+[2018.04.20-11.01.24:008][206]LogLoad: Took 0.036978 seconds to LoadMap(/Game/UEDPIE_0_World)
+[2018.04.20-11.01.35:634][247]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.20-11.01.35:857][247]LogSlate: Window 'Development Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.20-11.01.35:883][247]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.20-11.02.27:978][940]BlueprintLog: New page: Compile BP_Ball
+[2018.04.20-11.02.28:979][980]LogSavePackage: Save=18.57ms
+[2018.04.20-11.02.28:979][980]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_BallC25553F249A43A0EE022FA9E7F348B2A.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/BP_Ball.uasset'
+[2018.04.20-11.02.28:989][980]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/BP_Ball.uasset
+[2018.04.20-11.02.30:957][182]LogTemp: Repeating last play command: VR Preview
+[2018.04.20-11.02.30:998][182]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.20-11.02.30:999][182]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.20-11.02.30:999][182]PIE: New page: PIE session: World (20 Apr 2018 13:02:30)
+[2018.04.20-11.02.30:999][182]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_World
+[2018.04.20-11.02.31:004][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004066s)
+[2018.04.20-11.02.31:005][182]LogAIModule: Creating AISystem for world World
+[2018.04.20-11.02.31:005][182]LogPlayLevel: PIE: World Init took: (0.000906s)
+[2018.04.20-11.02.31:005][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/World.World to /Game/UEDPIE_0_World.World (0.005537s)
+[2018.04.20-11.02.31:032][182]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.20-11.02.31:040][182]LogInit: FAudioDevice initialized.
+[2018.04.20-11.02.31:125][182]LogLoad: Game class is 'GameModeBase'
+[2018.04.20-11.02.31:126][182]LogWorld: Bringing World /Game/UEDPIE_0_World.World up for play (max tick rate 0) at 2018.04.20-12.02.31
+[2018.04.20-11.02.31:127][182]LogWorld: Bringing up level for play took: 0.001283
+[2018.04.20-11.02.31:139][182]PIE: Play in editor start time for /Game/UEDPIE_0_World 0.676
+[2018.04.20-11.02.31:140][182]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.20-11.02.55:832][389]LogNet: Browse: /Game/World
+[2018.04.20-11.02.55:843][389]LogLoad: LoadMap: /Game/World
+[2018.04.20-11.02.55:869][389]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_World
+[2018.04.20-11.02.55:874][389]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003900s)
+[2018.04.20-11.02.55:874][389]LogAIModule: Creating AISystem for world World
+[2018.04.20-11.02.55:874][389]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2018.04.20-11.02.55:875][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/World.World to /Game/UEDPIE_0_World.World (0.005245s)
+[2018.04.20-11.02.55:875][389]LogLoad: Game class is 'GameModeBase'
+[2018.04.20-11.02.55:876][389]LogWorld: Bringing World /Game/UEDPIE_0_World.World up for play (max tick rate 0) at 2018.04.20-12.02.55
+[2018.04.20-11.02.55:877][389]LogWorld: Bringing up level for play took: 0.001240
+[2018.04.20-11.02.55:879][389]LogLoad: Took 0.036703 seconds to LoadMap(/Game/UEDPIE_0_World)
+[2018.04.20-11.03.22:204][745]LogNet: Browse: /Game/World
+[2018.04.20-11.03.22:215][745]LogLoad: LoadMap: /Game/World
+[2018.04.20-11.03.22:251][745]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_World
+[2018.04.20-11.03.22:255][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003759s)
+[2018.04.20-11.03.22:256][745]LogAIModule: Creating AISystem for world World
+[2018.04.20-11.03.22:256][745]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2018.04.20-11.03.22:256][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/World.World to /Game/UEDPIE_0_World.World (0.005084s)
+[2018.04.20-11.03.22:257][745]LogLoad: Game class is 'GameModeBase'
+[2018.04.20-11.03.22:258][745]LogWorld: Bringing World /Game/UEDPIE_0_World.World up for play (max tick rate 0) at 2018.04.20-12.03.22
+[2018.04.20-11.03.22:258][745]LogWorld: Bringing up level for play took: 0.001410
+[2018.04.20-11.03.22:261][745]LogLoad: Took 0.046092 seconds to LoadMap(/Game/UEDPIE_0_World)
+[2018.04.20-11.03.31:699][591]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.20-11.03.31:830][591]LogSlate: Window 'Development Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.20-11.03.31:858][591]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.20-11.03.37:070][145]BlueprintLog: New page: Compile BP_Ball
+[2018.04.20-11.03.38:044][184]LogSavePackage: Save=20.94ms
+[2018.04.20-11.03.38:044][184]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_Ball37B7013D426A26273CA7479477E94C9D.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/BP_Ball.uasset'
+[2018.04.20-11.03.38:051][184]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/BP_Ball.uasset
+[2018.04.20-11.03.59:393][124]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.20-11.04.46:585][414]LogBlueprint: Warning: [BP_Ball] 'ThrownCubes' variable not found. Base class was probably changed. /Game/VirtualRealityBP/Blueprints/BP_Ball.BP_Ball
+[2018.04.20-11.05.00:833][911]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2018.04.20-11.05.10:257][854]LogSlate: Took 0.020720 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.04.20-11.05.34:621][210]BlueprintLog: New page: Compile BP_Ball
+[2018.04.20-11.05.35:570][235]LogSavePackage: Save=23.24ms
+[2018.04.20-11.05.35:570][235]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_Ball7DD80BD542638E3FDCEC909916C92319.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/BP_Ball.uasset'
+[2018.04.20-11.05.35:579][235]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/BP_Ball.uasset
+[2018.04.20-11.06.02:461][693]LogBlueprint: Warning: [BP_Ball] 'ThrownCubes' variable not found. Base class was probably changed. /Game/VirtualRealityBP/Blueprints/BP_Ball.BP_Ball
+[2018.04.20-11.06.02:465][693]LogBlueprint: Warning: [BP_Ball] 'ThrownCubes' variable not found. Base class was probably changed. /Game/VirtualRealityBP/Blueprints/BP_Ball.BP_Ball
+[2018.04.20-11.06.02:465][693]LogBlueprint: Warning: [BP_Ball] 'ThrownCubes' variable not found. Base class was probably changed. /Game/VirtualRealityBP/Blueprints/BP_Ball.BP_Ball
+[2018.04.20-11.06.42:163][469]BlueprintLog: New page: Compile BP_Ball
+[2018.04.20-11.06.43:723][557]LogSavePackage: Save=24.86ms
+[2018.04.20-11.06.43:723][557]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_Ball1F44299948FEBCD856D49FB7A1A927A1.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/BP_Ball.uasset'
+[2018.04.20-11.06.43:732][557]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/BP_Ball.uasset
+[2018.04.20-11.06.55:460][663]BlueprintLog: New page: Compile BP_Catch
+[2018.04.20-11.06.56:088][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Catch" FILE="../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset" SILENT=true
+[2018.04.20-11.06.56:122][694]LogSavePackage: Save=21.16ms
+[2018.04.20-11.06.56:122][694]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_Catch3D32474446EEFD5AE104839288267DD3.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset'
+[2018.04.20-11.06.56:130][694]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset
+[2018.04.20-11.07.01:412][189]LogTemp: Repeating last play command: VR Preview
+[2018.04.20-11.07.01:447][189]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.20-11.07.01:448][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.20-11.07.01:448][189]PIE: New page: PIE session: World (20 Apr 2018 13:07:01)
+[2018.04.20-11.07.01:448][189]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_World
+[2018.04.20-11.07.01:453][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004284s)
+[2018.04.20-11.07.01:454][189]LogAIModule: Creating AISystem for world World
+[2018.04.20-11.07.01:455][189]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2018.04.20-11.07.01:455][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/World.World to /Game/UEDPIE_0_World.World (0.005783s)
+[2018.04.20-11.07.01:484][189]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.20-11.07.01:492][189]LogInit: FAudioDevice initialized.
+[2018.04.20-11.07.01:576][189]LogLoad: Game class is 'GameModeBase'
+[2018.04.20-11.07.01:578][189]LogWorld: Bringing World /Game/UEDPIE_0_World.World up for play (max tick rate 0) at 2018.04.20-12.07.01
+[2018.04.20-11.07.01:579][189]LogWorld: Bringing up level for play took: 0.001492
+[2018.04.20-11.07.01:590][189]PIE: Play in editor start time for /Game/UEDPIE_0_World 1.129
+[2018.04.20-11.07.01:591][189]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.20-11.07.40:417][661]LogNet: Browse: /Game/World
+[2018.04.20-11.07.40:427][661]LogLoad: LoadMap: /Game/World
+[2018.04.20-11.07.40:449][661]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_World
+[2018.04.20-11.07.40:453][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003768s)
+[2018.04.20-11.07.40:454][661]LogAIModule: Creating AISystem for world World
+[2018.04.20-11.07.40:454][661]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2018.04.20-11.07.40:454][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/World.World to /Game/UEDPIE_0_World.World (0.005051s)
+[2018.04.20-11.07.40:454][661]LogLoad: Game class is 'GameModeBase'
+[2018.04.20-11.07.40:456][661]LogWorld: Bringing World /Game/UEDPIE_0_World.World up for play (max tick rate 0) at 2018.04.20-12.07.40
+[2018.04.20-11.07.40:456][661]LogWorld: Bringing up level for play took: 0.001299
+[2018.04.20-11.07.40:459][661]LogLoad: Took 0.031405 seconds to LoadMap(/Game/UEDPIE_0_World)
+[2018.04.20-11.08.16:931][925]LogNet: Browse: /Game/World
+[2018.04.20-11.08.16:941][925]LogLoad: LoadMap: /Game/World
+[2018.04.20-11.08.16:973][925]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_World
+[2018.04.20-11.08.16:977][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003809s)
+[2018.04.20-11.08.16:978][925]LogAIModule: Creating AISystem for world World
+[2018.04.20-11.08.16:978][925]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2018.04.20-11.08.16:978][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/World.World to /Game/UEDPIE_0_World.World (0.005168s)
+[2018.04.20-11.08.16:979][925]LogLoad: Game class is 'GameModeBase'
+[2018.04.20-11.08.16:980][925]LogWorld: Bringing World /Game/UEDPIE_0_World.World up for play (max tick rate 0) at 2018.04.20-12.08.16
+[2018.04.20-11.08.16:980][925]LogWorld: Bringing up level for play took: 0.001210
+[2018.04.20-11.08.16:983][925]LogLoad: Took 0.041867 seconds to LoadMap(/Game/UEDPIE_0_World)
+[2018.04.20-11.08.25:845][719]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.20-11.08.25:996][719]LogSlate: Window 'Development Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.20-11.08.26:023][719]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.20-11.08.51:557][135]BlueprintLog: New page: Compile BP_Ball
+[2018.04.20-11.08.52:223][136]LogSavePackage: Save=25.62ms
+[2018.04.20-11.08.52:223][136]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_BallBA1D46D04CF9494555346187830FB430.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/BP_Ball.uasset'
+[2018.04.20-11.08.52:232][136]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/BP_Ball.uasset
+[2018.04.20-11.09.03:514][237]BlueprintLog: New page: Compile BP_Catch
+[2018.04.20-11.09.04:077][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Catch" FILE="../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset" SILENT=true
+[2018.04.20-11.09.04:110][261]LogSavePackage: Save=20.66ms
+[2018.04.20-11.09.04:110][261]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_Catch579A3D534156A041C97F28B7CA680E2A.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset'
+[2018.04.20-11.09.04:118][261]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset
+[2018.04.20-11.09.05:787][417]LogTemp: Repeating last play command: VR Preview
+[2018.04.20-11.09.05:822][417]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.20-11.09.05:823][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.20-11.09.05:823][417]PIE: New page: PIE session: World (20 Apr 2018 13:09:05)
+[2018.04.20-11.09.05:823][417]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_World
+[2018.04.20-11.09.05:829][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005289s)
+[2018.04.20-11.09.05:830][417]LogAIModule: Creating AISystem for world World
+[2018.04.20-11.09.05:830][417]LogPlayLevel: PIE: World Init took: (0.000954s)
+[2018.04.20-11.09.05:830][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/World.World to /Game/UEDPIE_0_World.World (0.006827s)
+[2018.04.20-11.09.05:859][417]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.20-11.09.05:867][417]LogInit: FAudioDevice initialized.
+[2018.04.20-11.09.05:959][417]LogLoad: Game class is 'GameModeBase'
+[2018.04.20-11.09.05:960][417]LogWorld: Bringing World /Game/UEDPIE_0_World.World up for play (max tick rate 0) at 2018.04.20-12.09.05
+[2018.04.20-11.09.05:961][417]LogWorld: Bringing up level for play took: 0.001261
+[2018.04.20-11.09.05:971][417]PIE: Play in editor start time for /Game/UEDPIE_0_World -0.489
+[2018.04.20-11.09.05:971][417]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.20-11.09.59:995][248]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.20-11.10.00:155][248]LogSlate: Window 'Development Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.20-11.10.00:191][248]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.20-11.10.53:064][373]BlueprintLog: New page: Compile BP_Catch
+[2018.04.20-11.10.53:668][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Catch" FILE="../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset" SILENT=true
+[2018.04.20-11.10.53:700][404]LogSavePackage: Save=19.20ms
+[2018.04.20-11.10.53:700][404]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_Catch5AC106484C776AF8F082B99A376909EE.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset'
+[2018.04.20-11.10.53:709][404]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset
+[2018.04.20-11.11.01:924][245]BlueprintLog: New page: Compile BP_Catch
+[2018.04.20-11.11.02:500][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Catch" FILE="../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset" SILENT=true
+[2018.04.20-11.11.02:530][274]LogSavePackage: Save=17.63ms
+[2018.04.20-11.11.02:530][274]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_CatchEE2DB00947864DA0E7A80EB0245385FE.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset'
+[2018.04.20-11.11.02:539][274]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset
+[2018.04.20-11.12.11:583][783]BlueprintLog: New page: Compile BP_Ball
+[2018.04.20-11.12.12:621][809]LogSavePackage: Save=30.39ms
+[2018.04.20-11.12.12:621][809]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_BallFD3AE834478BA9CA5368A59C829DF7AB.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/BP_Ball.uasset'
+[2018.04.20-11.12.12:631][809]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/BP_Ball.uasset
+[2018.04.20-11.12.13:578][891]LogTemp: Repeating last play command: VR Preview
+[2018.04.20-11.12.13:603][891]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.20-11.12.13:604][891]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.20-11.12.13:604][891]PIE: New page: PIE session: World (20 Apr 2018 13:12:13)
+[2018.04.20-11.12.13:604][891]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_World
+[2018.04.20-11.12.13:609][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004881s)
+[2018.04.20-11.12.13:610][891]LogAIModule: Creating AISystem for world World
+[2018.04.20-11.12.13:611][891]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2018.04.20-11.12.13:611][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/World.World to /Game/UEDPIE_0_World.World (0.006397s)
+[2018.04.20-11.12.13:641][891]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.20-11.12.13:650][891]LogInit: FAudioDevice initialized.
+[2018.04.20-11.12.13:736][891]LogLoad: Game class is 'GameModeBase'
+[2018.04.20-11.12.13:738][891]LogWorld: Bringing World /Game/UEDPIE_0_World.World up for play (max tick rate 0) at 2018.04.20-12.12.13
+[2018.04.20-11.12.13:738][891]LogWorld: Bringing up level for play took: 0.001343
+[2018.04.20-11.12.13:750][891]PIE: Play in editor start time for /Game/UEDPIE_0_World -0.709
+[2018.04.20-11.12.13:750][891]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.20-11.12.20:915][528]LogBlueprintUserMessages: [BP_PickupCube2_2] 1
+[2018.04.20-11.12.28:027][166]LogBlueprintUserMessages: [BP_PickupCube_2] 1
+[2018.04.20-11.12.34:595][754]LogBlueprintUserMessages: [BP_PickupCube3_5] 1
+[2018.04.20-11.12.46:201][793]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.20-11.12.46:394][793]LogSlate: Window 'Development Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.20-11.12.46:437][793]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.20-11.16.49:429][106]LogSavePackage: Save=127.23ms
+[2018.04.20-11.16.49:430][106]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/World_Auto25CA1806B4200DA8B72277D8EEC61813D.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/Autosaves/Game/World_Auto2.umap'
+[2018.04.20-11.16.49:436][106]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/Autosaves/Game/World_Auto2.umap
+[2018.04.20-11.16.49:439][106]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/World' took 0.199
+[2018.04.20-11.16.49:439][106]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.199
+[2018.04.20-11.16.49:442][106]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_Catch] ([1] browsable assets)...
+[2018.04.20-11.16.49:443][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Catch]
+[2018.04.20-11.16.49:443][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Catch" FILE="../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/Autosaves/Game/BP_Catch_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.04.20-11.16.49:477][106]LogSavePackage: Save=19.94ms
+[2018.04.20-11.16.49:477][106]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_Catch_Auto215D23BBA4E3DE1223AA67EABB1239A19.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/Autosaves/Game/BP_Catch_Auto2.uasset'
+[2018.04.20-11.16.49:484][106]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/Autosaves/Game/BP_Catch_Auto2.uasset
+[2018.04.20-11.16.49:485][106]LogFileHelpers: Auto-saving content packages took 0.045
+[2018.04.20-11.23.17:410][155]BlueprintLog: New page: Compile BP_Catch
+[2018.04.20-11.23.18:048][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Catch" FILE="../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset" SILENT=true
+[2018.04.20-11.23.18:084][185]LogSavePackage: Save=20.38ms
+[2018.04.20-11.23.18:084][185]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_Catch71980CAD4408B6CF4D632E8C59A851A5.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset'
+[2018.04.20-11.23.18:093][185]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset
+[2018.04.20-11.23.30:091][278]BlueprintLog: New page: Compile BP_Catch
+[2018.04.20-11.23.30:758][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Catch" FILE="../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset" SILENT=true
+[2018.04.20-11.23.30:788][311]LogSavePackage: Save=18.32ms
+[2018.04.20-11.23.30:788][311]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_CatchB7C748584ED7FC008CB2CCAD85399116.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset'
+[2018.04.20-11.23.30:797][311]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset
+[2018.04.20-11.24.26:305][630]LogBlueprint: Warning: [BP_Catch] 'ThrownBalls' variable not found. Base class was probably changed. /Game/BP_Catch.BP_Catch
+[2018.04.20-11.25.06:395][409]BlueprintLog: New page: Compile BP_Catch
+[2018.04.20-11.25.06:966][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Catch" FILE="../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset" SILENT=true
+[2018.04.20-11.25.07:001][430]LogSavePackage: Save=22.63ms
+[2018.04.20-11.25.07:001][430]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_Catch648212694E20262FEF66E1B18BD24114.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset'
+[2018.04.20-11.25.07:009][430]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset
+[2018.04.20-11.25.13:625][710]LogSlate: Window 'Delete Variable' being destroyed
+[2018.04.20-11.26.24:382][643]BlueprintLog: New page: Compile BP_Ball
+[2018.04.20-11.26.24:405][643]LogBlueprint: Error: [Compiler BP_Ball] The type of  Object  is undetermined.  Connect something to  Cast To BP_Catch  to imply a specific type.
+[2018.04.20-11.26.24:406][643]LogBlueprint: Error: [Compiler BP_Ball] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2018.04.20-11.26.24:948][643]LogBlueprint: Warning: [Compiler BP_Ball] [3590.53] Compile of BP_Ball failed. 2 Fatal Issue(s) 0 Warning(s) [in 565 ms] (/Game/VirtualRealityBP/Blueprints/BP_Ball.BP_Ball)
+[2018.04.20-11.26.25:007][643]LogSavePackage: Save=22.06ms
+[2018.04.20-11.26.25:007][643]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_BallB68A7B98424BBD3C8FABA0A1CD9A363B.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/BP_Ball.uasset'
+[2018.04.20-11.26.25:016][643]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/BP_Ball.uasset
+[2018.04.20-11.26.55:039][803]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2018.04.20-11.27.45:653][806]BlueprintLog: New page: Compile BP_Ball
+[2018.04.20-11.27.46:678][847]LogSavePackage: Save=22.03ms
+[2018.04.20-11.27.46:678][847]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_BallFFF9E770406CF63C1E9C41B44D866B6E.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/BP_Ball.uasset'
+[2018.04.20-11.27.46:687][847]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/BP_Ball.uasset
+[2018.04.20-11.28.12:445][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World" FILE="../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/World.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.20-11.28.12:593][734]LogSavePackage: Save=112.94ms
+[2018.04.20-11.28.12:594][734]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/World5C32762E44FC21DB54E37D8A8A353DC3.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/World.umap'
+[2018.04.20-11.28.12:602][734]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/World.umap
+[2018.04.20-11.28.12:638][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World_BuiltData" FILE="../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/World_BuiltData.uasset" SILENT=true
+[2018.04.20-11.28.12:670][734]LogSavePackage: Save=17.68ms
+[2018.04.20-11.28.12:670][734]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/World_BuiltData8EE2651E4FD7DEE6D7267684A7E13744.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/World_BuiltData.uasset'
+[2018.04.20-11.28.12:675][734]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/World_BuiltData.uasset
+[2018.04.20-11.28.14:125][900]LogTemp: Repeating last play command: VR Preview
+[2018.04.20-11.28.14:146][900]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.20-11.28.14:147][900]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.20-11.28.14:147][900]PIE: New page: PIE session: World (20 Apr 2018 13:28:14)
+[2018.04.20-11.28.14:147][900]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_World
+[2018.04.20-11.28.14:151][900]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004069s)
+[2018.04.20-11.28.14:152][900]LogAIModule: Creating AISystem for world World
+[2018.04.20-11.28.14:153][900]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2018.04.20-11.28.14:153][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/World.World to /Game/UEDPIE_0_World.World (0.005635s)
+[2018.04.20-11.28.14:181][900]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.20-11.28.14:190][900]LogInit: FAudioDevice initialized.
+[2018.04.20-11.28.14:272][900]LogLoad: Game class is 'GameModeBase'
+[2018.04.20-11.28.14:274][900]LogWorld: Bringing World /Game/UEDPIE_0_World.World up for play (max tick rate 0) at 2018.04.20-12.28.14
+[2018.04.20-11.28.14:274][900]LogWorld: Bringing up level for play took: 0.001429
+[2018.04.20-11.28.14:288][900]PIE: Play in editor start time for /Game/UEDPIE_0_World -0.163
+[2018.04.20-11.28.14:290][900]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.20-11.28.48:144][927]LogNet: Browse: /Game/World
+[2018.04.20-11.28.48:154][927]LogLoad: LoadMap: /Game/World
+[2018.04.20-11.28.48:199][927]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_World
+[2018.04.20-11.28.48:205][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005144s)
+[2018.04.20-11.28.48:206][927]LogAIModule: Creating AISystem for world World
+[2018.04.20-11.28.48:206][927]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2018.04.20-11.28.48:206][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/World.World to /Game/UEDPIE_0_World.World (0.006804s)
+[2018.04.20-11.28.48:206][927]LogLoad: Game class is 'GameModeBase'
+[2018.04.20-11.28.48:208][927]LogWorld: Bringing World /Game/UEDPIE_0_World.World up for play (max tick rate 0) at 2018.04.20-12.28.48
+[2018.04.20-11.28.48:208][927]LogWorld: Bringing up level for play took: 0.001590
+[2018.04.20-11.28.48:212][927]LogLoad: Took 0.057648 seconds to LoadMap(/Game/UEDPIE_0_World)
+[2018.04.20-11.29.05:557][479]LogNet: Browse: /Game/World
+[2018.04.20-11.29.05:568][479]LogLoad: LoadMap: /Game/World
+[2018.04.20-11.29.05:595][479]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_World
+[2018.04.20-11.29.05:600][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004532s)
+[2018.04.20-11.29.05:601][479]LogAIModule: Creating AISystem for world World
+[2018.04.20-11.29.05:601][479]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2018.04.20-11.29.05:601][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/World.World to /Game/UEDPIE_0_World.World (0.006218s)
+[2018.04.20-11.29.05:602][479]LogLoad: Game class is 'GameModeBase'
+[2018.04.20-11.29.05:603][479]LogWorld: Bringing World /Game/UEDPIE_0_World.World up for play (max tick rate 0) at 2018.04.20-12.29.05
+[2018.04.20-11.29.05:604][479]LogWorld: Bringing up level for play took: 0.001414
+[2018.04.20-11.29.05:607][479]LogLoad: Took 0.039308 seconds to LoadMap(/Game/UEDPIE_0_World)
+[2018.04.20-11.29.11:100][966]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.20-11.29.11:248][966]LogSlate: Window 'Development Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.20-11.29.11:280][966]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/World.World:PersistentLevel.World' with GeneratedClass '/Game/World.World_C' with ClassGeneratedBy '/Game/World.World:PersistentLevel.World'
+[2018.04.20-11.30.19:044][805]BlueprintLog: New page: Compile BP_Ball
+[2018.04.20-11.30.20:068][842]LogSavePackage: Save=21.18ms
+[2018.04.20-11.30.20:068][842]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_Ball21CF22D74654BD7DF8B7A982B987D810.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/BP_Ball.uasset'
+[2018.04.20-11.30.20:077][842]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/VirtualRealityBP/Blueprints/BP_Ball.uasset
+[2018.04.20-11.30.38:686][677]LogEditorTransaction: Undo Move Node
+[2018.04.20-11.31.13:447][116]BlueprintLog: New page: Compile BP_Catch
+[2018.04.20-11.31.14:076][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Catch" FILE="../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset" SILENT=true
+[2018.04.20-11.31.14:112][146]LogSavePackage: Save=21.98ms
+[2018.04.20-11.31.14:112][146]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_Catch46E1338341A9E6EEB41893A93C36959D.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset'
+[2018.04.20-11.31.14:120][146]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset
+[2018.04.20-11.31.18:239][529]BlueprintLog: New page: Compile BP_Catch
+[2018.04.20-11.31.18:886][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Catch" FILE="../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset" SILENT=true
+[2018.04.20-11.31.18:921][559]LogSavePackage: Save=22.76ms
+[2018.04.20-11.31.18:921][559]LogSavePackage: Moving '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Saved/BP_CatchADC9497F49553E815EA4EC9CCE845522.tmp' to '../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset'
+[2018.04.20-11.31.18:928][559]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14bjm/Documents/GitHub/Research-Project/Development/Content/BP_Catch.uasset
