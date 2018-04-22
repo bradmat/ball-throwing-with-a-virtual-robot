@@ -17,6 +17,9 @@ Currently robot manipulation is done using Blueprints to move the robot body, ho
 
 ## Controls
 Both motion controllers are programmed to have the same behaviour allowing the same functionality for both left-handed and right-handed users.
+
+![vive controller layout guide](VIVE_controller.png)
+
 - The touchpad can be used to teleport around the starting room
   - Simply point the motion controller in the direction you wish to move and touch the touchpad to teleport
 - The trigger controls can be used to pick up and drop a ball
