@@ -20,7 +20,7 @@ Both motion controllers are programmed to have the same behaviour allowing the s
 
 ![vive controller layout guide](VIVE_controller.png)
 
-- The touchpad can be used to teleport around the starting room
+- The trackpad can be used to teleport around the starting room
   - Simply point the motion controller in the direction you wish to move and touch the touchpad to teleport
 - The trigger controls can be used to pick up and drop a ball
   - The motion controller will shake when in reach of the ball, at this point hold the trigger to pick up a ball, and release the trigger to throw the ball in the direction of the motion controller
