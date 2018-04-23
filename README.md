@@ -2,6 +2,8 @@
 This repository contains the source code for a final year research project allowing a ball throwing game to be played with a virtual robot within Virtual Reality.
 The project was developed within the Unreal Engine on version 4.19 for use the HTC VIVE system.
 
+![project picture](project_picture.png)
+
 ## Development
 This project was developed using a combination of the Blueprints Visual Scripting language for the Virtual Reality interactions, and C++ for the attempts at Robot Operating System (ROS) integration.
 
