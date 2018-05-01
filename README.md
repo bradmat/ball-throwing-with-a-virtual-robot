@@ -15,6 +15,7 @@ The libraries have been successfully integrated, and now code could be developed
 ## How to use
 - Clone or download the project source
 - Configure and start SteamVR
+- If using the ros-ik-integration branch, right click the development.uproject file and 'Generate Visaul Studio project files'
 - Open the development.uproject file in the Unreal Engine project browser
 - Ensure the "World" level is open, and play in the VR Preview
 
