@@ -1,6 +1,6 @@
 # Ball Throwing with a Virtual Robot
 This repository contains the source code for a final year research project allowing a ball throwing game to be played with a virtual robot within Virtual Reality.
-The project was developed within the Unreal Engine on version 4.19 for use the HTC VIVE system.
+The project was developed within the Unreal Engine on version 4.19 for use the with HTC VIVE system.
 
 ![project picture](project_picture.png)
 
@@ -9,7 +9,8 @@ This project was developed using a combination of the Blueprints Visual Scriptin
 
 The robot model was created as a URDF file, and an appropriate representation was created within the Unreal Engine.
 
-Currently robot manipulation is done using Blueprints to move the robot body, however implementation of the Orocos Kinematics and Dynamics Library (KDL) and it's kinematics solvers are being explored for use.
+Currently robot manipulation is done using Blueprints to move the robot body, however implementation of the Orocos Kinematics and Dynamics Library (KDL) and it's kinematics solvers are being explored for use within the ros-ik-integration branch.
+The libraries have been successfully integrated, and now code could be developed to use an IK solver provided by KDL.
 
 ## How to use
 - Clone or download the project source
